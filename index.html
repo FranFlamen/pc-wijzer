@@ -113,7 +113,7 @@ function renderList(){
   const t=norm(q.value.trim());clr.style.display=t?'block':'none';
   const cur=location.hash.slice(1);
   const hits=DATA.filter(p=>!t||p.nr.startsWith(t)||p.nr.replace('.','').startsWith(t.replace('.',''))||norm(p.n).includes(t)||p.r.some(r=>norm(r.n).includes(t)&&t.length>3));
-  list.innerHTML=hits.length?hits.map(p=>`<button class="it" data-nr="${esc(p.nr)}" aria-current="${slug(p.nr)===cur}"><b>${esc(p.nr)}</b><span>${esc(p.n)}<small>${esc(range(p))} · ${p.r.length} toeslagen</small></span></button>`).join(''):'<p class="empty">Geen paritair comité gevonden. Probeer een nummer (bv. 302) of een deel van de naam.</p>';
+  list.innerHTML=hits.length?hits.map(p=>`<button class="it" data-nr="${esc(p.nr)}" aria-current="${slug(p.nr)===cur}"><b>${esc(p.nr)}</b><span>${esc(p.n)}<small>${esc(range(p))}</small></span></button>`).join(''):'<p class="empty">Geen paritair comité gevonden. Probeer een nummer (bv. 302) of een deel van de naam.</p>';
 }
 function renderRecent(){recentEl.innerHTML=recent.map(nr=>`<button class="chip" data-nr="${esc(nr)}">PC ${esc(nr)}</button>`).join('')}
 function show(nr){
@@ -123,15 +123,15 @@ function show(nr){
   recent=[nr,...recent.filter(x=>x!==nr)].slice(0,4);try{localStorage.setItem('pcw-recent',JSON.stringify(recent))}catch(e){}
   renderRecent();
   const tags=[p.s,p.b?'Barema-lonen':'Geen barema-lonen'].filter(Boolean).map(t=>`<span class="tag">${esc(t)}</span>`).join('');
-  const cats=p.cats.length?p.cats.map(c=>`<div class="wr"><div class="cn">${esc(c.n)}<small>${c.f} functie${c.f===1?'':'s'}</small></div><div class="w">${c.w?eur(c.w,4):'–'}</div>${c.a.length&&c.w?`<div class="ages">${c.a.map(([a,pc])=>`<div class="age">${a} jaar<b>${eur(c.w*pc/100)}</b>${pct(pc)}</div>`).join('')}</div>`:''}</div>`).join(''):'<div class="wr"><div class="cn">Geen categorieën ingesteld</div></div>';
+  const cats=p.cats.length?p.cats.map(c=>`<div class="wr"><div class="cn">${esc(c.n)}</div><div class="w">${c.w?eur(c.w,4):'–'}</div>${c.a.length&&c.w?`<div class="ages">${c.a.map(([a,pc])=>`<div class="age">${a} jaar<b>${eur(c.w*pc/100)}</b>${pct(pc)}</div>`).join('')}</div>`:''}</div>`).join(''):'<div class="wr"><div class="cn">Geen categorieën ingesteld</div></div>';
   const ex=[];if(p.wg.FLX)ex.push(`<div class="pill">Flexi-loon <b>${eur(p.wg.FLX,4)}</b> /uur</div>`);if(p.wg.STU)ex.push(`<div class="pill">Student <b>${eur(p.wg.STU,4)}</b> /uur</div>`);
   const groups=[...new Set(p.r.map(r=>r.g))];
   const rules=groups.length?groups.map(g=>`<div class="grp"><div class="gn">${esc(g)}</div><div>${p.r.filter(r=>r.g===g).map(r=>`<div class="ru"><span class="rv">${esc(r.v)}</span> <span class="rn">${esc(r.n)}</span>${r.c?`<div class="rc">${esc(r.c)}</div>`:''}<div class="rt">Geldt voor: ${esc(r.t)}</div></div>`).join('')}</div></div>`).join(''):'<p class="rc">Geen toeslagen ingesteld.</p>';
   card.innerHTML=`<button class="back" id="back">← Alle PC's</button>
   <div class="head"><div class="num">${esc(p.nr)}</div><div><h2>${esc(p.n)}</h2><div class="tags">${tags}</div></div></div>
-  <h3>Basisuurlonen <small>per categorie</small></h3><div class="wages">${cats}</div>${ex.length?`<div class="extra">${ex.join('')}</div>`:''}
+  <h3>Basisuurloon</h3><div class="wages">${cats}</div>${ex.length?`<div class="extra">${ex.join('')}</div>`:''}
   <h3>Toeslagen <small>${p.r.length} regels</small></h3>${rules}
-  <p class="note">Enkel voor intern gebruik bij Silver Tie. Percentages zijn een toeslag op het uurloon. Jongerenlonen: uurloon en % van het basisloon. Contracttypes: OTH arbeider/bediende, STU student, WSTU werkstudent, FLX flexi-job, EXT extra, VRIJ vrijwilliger, FREE freelancer, VAST vaste medewerker.</p>`;
+  <p class="note">Enkel voor intern gebruik bij Silver Tie. Percentages zijn een toeslag op het uurloon. Contracttypes: OTH arbeider/bediende, STU student, WSTU werkstudent, FLX flexi-job, EXT extra, VRIJ vrijwilliger, FREE freelancer, VAST vaste medewerker.</p>`;
   $('back').addEventListener('click',()=>{location.hash='';});
   renderList();
   if(window.innerWidth<900)window.scrollTo(0,0);
