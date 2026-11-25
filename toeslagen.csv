@@ -1,0 +1,271 @@
+﻿pc;soort;toeslag;bedrag;voorwaarden;geldt_voor
+0;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+0;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+0;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+100;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+100;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+100;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+100;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+100;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
+109;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+109;Flexi-vakantiegeld;Vakantiegeld Flexi;7,37 %;;FLX
+109;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+109;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+111.01;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+111.01;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+111.01;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+111.01;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+111.01;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
+116;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+116;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+116;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+116;Overuren;Overuren 200%;200 %;bij overuren;Alle behalve EXT
+116;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
+116;Zondag;Zondagstoeslag;€ 1,35 /uur;op zondag;Alle behalve EXT
+116;Kledij;Kledij aankoop;€ 2,08 /uur;;Alle behalve EXT
+118.03;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+118.03;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+118.03;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+118.03;Overuren;Overuren 200%;200 %;bij overuren;Alle behalve EXT
+118.03;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
+118.03;Zondag;Weekendpremie zondag;€ 5,28 /dag;op zondag;Alle behalve EXT
+118.03;Zaterdag / 6de-7de dag;Weekendpremie zaterdag;€ 5,28 /dag;op zaterdag;Alle behalve EXT
+118.03;Nacht;Nachtpremie;20 %;22:00–06:00;Alle behalve EXT
+118.03;Kledij;Kledij Onderhoud;€ 5,84 /week;;Alle behalve EXT
+118.03;Kledij;Kledij aankoop;€ 4,94 /week;;Alle behalve EXT
+118.07;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU
+118.07;Flexi-vakantiegeld;Flexi vakantiegeld;7,67 %;;FLX
+118.07;Overuren;Overuren 150%;150 %;bij overuren;Alle
+118.07;Overuren;Overuren 200%;200 %;bij overuren;Alle
+118.07;Nacht;Nachttoeslag;15 %;20:00–06:00;Alle
+118.07;Kledij;Kledij aankoop;€ 4,66 /week;;Alle
+118.07;Kledij;Kledij onderhoud;€ 5,51 /week;;Alle behalve EXT
+118.08;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+118.08;Koude;Koudepremie;10 %;temperatuur ≥  °C;Alle behalve EXT
+118.15;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+118.15;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+118.15;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+118.15;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+118.15;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
+118.15;Kledij;Kledij aankoop;€ 5,84 /dag;;Alle behalve EXT
+118.15;Kledij;Kledij onderhoud;€ 4,94 /dag;;Alle behalve EXT
+119;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+119;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+119;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+119;Overuren;Overuren 200%;200 %;bij overuren;Alle behalve EXT
+119;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
+119;Nacht;Nachtpremie;30 %;22:00–06:00;Alle behalve EXT
+119;Koude;Koude premie lager dan 5°C;5 %;"temperatuur 0–5 °C; enkel meest voordelige";Alle behalve EXT
+119;Koude;Koude premie lager dan 8°C;2 %;"temperatuur 6–8 °C; enkel meest voordelige";Alle behalve EXT
+119;Kledij;Kledij aankoop;€ 3,61 /week;;Alle behalve EXT
+119;Kledij;Kledij onderhoud;€ 3,61 /week;;Alle behalve EXT
+119.03;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;FLX, OTH, WSTU
+119.03;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+119.03;Overuren;Overuren 150%;150 %;bij overuren;STU, FLX, OTH, WSTU
+119.03;Overuren;Overuren 200%;200 %;bij overuren;STU, FLX, OTH, WSTU
+119.03;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);STU, FLX, OTH, WSTU
+119.03;Nacht;Nachtpremie;30 %;22:00–06:00;STU, FLX, OTH, WSTU
+119.03;Koude;Koude premie lager dan 5°C;5 %;"temperatuur 0–5 °C; enkel meest voordelige";STU, FLX, OTH, WSTU
+119.03;Koude;Koude premie lager dan 8°C;2 %;"temperatuur 6–8 °C; enkel meest voordelige";STU, FLX, OTH, WSTU
+119.03;Kledij;Kledij aankoop;€ 3,61 /week;;STU, FLX, OTH, WSTU
+119.03;Kledij;Kledij onderhoud;€ 3,61 /week;;STU, FLX, OTH, WSTU
+119.04;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+119.04;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+119.04;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+119.04;Overuren;Overuren 200%;200 %;bij overuren;Alle behalve EXT
+119.04;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
+119.04;Avond / namiddag;Namiddagpremie;€ 0,32 /uur;14:00–22:00;Alle behalve EXT
+119.04;Nacht;Nachtarbeid;30 %;22:00–06:00;Alle behalve EXT
+119.04;Koude;Koudepremie 5°;5 %;temperatuur 0–5 °C;Alle behalve EXT
+119.04;Koude;Koudepremie 8°;2 %;temperatuur 5–8 °C;Alle behalve EXT
+119.04;Kledij;Kledij Onderhoud;€ 3,61 /week;;Alle behalve EXT
+119.04;Kledij;Kledij levering;€ 3,61 /week;;Alle behalve EXT
+121;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU
+121;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+121;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+121;Overuren;Overuren 200%;200 %;bij overuren;Alle behalve EXT
+121;Feestdag;Toeslag feestdag;100 %;op feestdagen;Alle behalve EXT
+121;Zondag;Zondagstoeslag;100 %;op zondag;Alle behalve EXT
+121;Zaterdag / 6de-7de dag;Zaterdagarbeid;25 %;op zaterdag;Alle
+121;Nacht;Nachtpremie (22u-6u);€ 3,12 /uur;"22:00–00:00; 00:00–06:00";Alle behalve EXT
+121;Overige vergoedingen;Arab Vergoeding;€ 1,63 /dag;;Alle behalve EXT
+126;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+126;Flexi-vakantiegeld;Flexi vakantiegeld;7,67 %;;FLX
+126;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+126;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+126;Feestdag;Toeslag feestdag;50 %;"op feestdagen; enkel meest voordelige";Alle behalve EXT
+126;Zondag;Zondagstoeslag;50 %;"op zondag; enkel meest voordelige";Alle behalve EXT
+126;Overige vergoedingen;Arab Vergoeding;€ 1,12 /uur;;Alle behalve EXT
+130.00;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+130.00;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+130.00;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+130.00;Feestdag;Toeslag feestdag;€ 200,00 /uur;op feestdagen;Alle behalve EXT
+130.00;Avond / namiddag;Avondtoeslag;25 %;"20:00–22:00; enkel meest voordelige";Alle behalve EXT
+130.00;Nacht;Nachttoeslag;50 %;"22:00–06:00; enkel meest voordelige";Alle behalve EXT
+140.00;Ecocheques;Ecocheques;€ 0,128 /uur;max 249 per jaar;FLX, OTH, WSTU
+140.00;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+140.00;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+140.00;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+140.00;Nacht;Nachtvergoeding;12,50 %;22:00–06:00;Alle behalve EXT
+140.00;Overige vergoedingen;Arab Vergoeding (Rijdend pers.);€ 1,8418 /uur;;Alle behalve EXT
+140.00;Overige vergoedingen;Maaltijdcheques;€ 0,00 /uur;;Alle behalve EXT
+140.03;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+140.03;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+140.03;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+140.03;Zondag;Prestaties op zon- en feestdagen;100 %;"op zondag; op feestdagen";Alle
+140.03;Nacht;Nachtvergoeding;€ 1,887 /uur;20:00–06:00;Alle behalve EXT
+140.03;Kledij;Kledijvergoeding (indien minder dan 20 werknemers);€ 0,23 /dag;;Alle
+140.03;Overige vergoedingen;Arab Vergoeding (Rijdend pers.);€ 1,8175 /uur;;Alle behalve EXT
+140.03;Overige vergoedingen;Maaltijdcheques;€ 0,00 /uur;;Alle behalve EXT
+140.05;Flexi-vakantiegeld;Vakantiegeld Flexi;€ 7,67 /uur;;FLX
+140.05;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+140.05;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+140.05;Overige vergoedingen;Arab Vergoeding;€ 1,12 /uur;;Alle behalve EXT
+144;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+144;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+144;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+144;Overuren;Overuren 200%;200 %;bij overuren;Alle behalve EXT
+144;Feestdag;Toeslag feestdag;100 %;op feestdagen;Alle behalve EXT
+144;Kledij;Kledij onderhoud;€ 0,98 /dag;;Alle behalve EXT
+145.01;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve FLX en EXT
+145.01;Overuren;Overuren 200%;200 %;"bij overuren; min 1.132";Alle behalve FLX en EXT
+145.01;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve FLX en EXT
+145.01;Nacht;Nachtpremie;15 %;20:00–06:00;Alle behalve FLX en EXT
+145.01;Kledij;Kledij onderhoud;€ 0,98 /dag;;Alle behalve FLX en EXT
+145.01;Overige vergoedingen;Scheidingsvergoeding;€ 2,00 /dag;;Alle behalve FLX en EXT
+145.04;Ecocheques;Ecocheques;€ 0,128 /uur;;Alle behalve STU en EXT
+145.04;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+145.04;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+145.04;Overuren;Overuren 200%;200 %;bij overuren;Alle behalve EXT
+145.04;Zaterdag / 6de-7de dag;Zaterdagwerk;50 %;op dag 7.6;Alle behalve EXT
+145.04;Nacht;Nachtpremie;25 %;"20:00–00:00; 00:00–06:00";Alle behalve EXT
+145.04;Kledij;Kledijvergoeding;€ 0,98 /dag;;Alle behalve EXT
+145.04;Overige vergoedingen;Maaltijdvergoeding/dag;€ 2,50 /dag;;Alle behalve EXT
+149.01;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+149.01;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+149.01;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+149.01;Overuren;Overuren 200%;200 %;bij overuren;Alle behalve EXT
+149.01;Nacht;Nachttoeslag;20 %;"22:00–06:00; enkel meest voordelige";Alle behalve EXT
+149.04;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;FLX, OTH, WSTU
+149.04;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+149.04;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+149.04;Overuren;Overuren 200%;200 %;bij overuren;STU, FLX, OTH, WSTU
+149.04;Nacht;Nachttoeslag;20 %;"22:00–06:00; enkel meest voordelige";Alle behalve EXT
+200;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+200;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+200;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+200;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+200;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
+201;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+201;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+201;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+201;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+201;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
+207;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+207;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+207;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+209;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+209;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+209;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+209;Overuren;Overuren 200%;200 %;bij overuren;Alle behalve EXT
+209;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
+209;Overige vergoedingen;Mobiliteitsvergoeding;€ 0,1579 /dag;;STU, FLX, EXT, OTH, WSTU
+220;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+220;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+220;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+220;Zaterdag / 6de-7de dag;Arbeid op 6de of 7de dag aan 25% op het uurloon;25 %;"op zaterdag; op zondag";Alle behalve EXT
+220;Kledij;Kledij aankoop;€ 4,94 /week;;Alle behalve EXT
+220;Kledij;Kledij onderhoud;€ 5,84 /week;;Alle behalve EXT
+222;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+222;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+222;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+222;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+223;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+223;Flexi-vakantiegeld;Flexi vakantiegeld;7,67 %;;FLX
+223;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+223;Overuren;Overuren 200%;200 %;bij overuren;Alle behalve EXT
+223;Feestdag;Toeslag feestdag;100 %;op feestdagen;Alle behalve EXT
+226;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+226;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+226;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+226;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+226;Feestdag;Toeslag feestdag;200 %;op feestdagen;Alle behalve EXT
+226;Zondag;Zondagstoeslag;200 %;op zondag;Alle behalve EXT
+227;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+227;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+227;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+227;Overuren;Overuren 200%;200 %;bij overuren;Alle behalve EXT
+227;Feestdag;Toeslag feestdag;20 %;op feestdagen;Alle behalve EXT
+227;Nacht;Nachtpremie;50 %;01:00–06:00;Alle behalve EXT
+302;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU
+302;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+302;Overuren;Overuur 150%;150 %;bij overuren;STU, FLX, EXT, OTH, WSTU
+302;Overuren;Overuur 200%;200 %;bij overuren;Alle
+302;Feestdag;Toeslag feestdag;€ 2,00 /uur;"op feestdagen (max 6 u); enkel meest voordelige";Alle
+302;Zondag;Zondagstoeslag;€ 2,00 /uur;"op zondag (max 6 u); enkel meest voordelige";Alle
+302;Nacht;Nachttoeslag;€ 1,6209 /uur;"00:00–05:00; enkel meest voordelige";Alle
+302;Kledij;Kledij aankoop;€ 2,20 /dag;;Alle
+302;Kledij;Kledij onderhoud;€ 2,20 /dag;;Alle
+304;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+304;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+304;Overuren;Overuren 200%;200 %;bij overuren;Alle behalve EXT
+304;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+304;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
+307;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve EXT
+307;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+307;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+307;Overuren;Overuren 200%;200 %;bij overuren;Alle behalve EXT
+307;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
+310;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+310;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+310;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+310;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+310;Feestdag;Toeslag feestdag;50 %;op feestdagen (max 7,60 u);Alle behalve EXT
+311;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+311;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+311;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+311;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+314;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+314;Flexi-vakantiegeld;Flexi vakantiegeld;7,67 %;;FLX
+314;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+314;Overuren;Overuren 200%;200 %;bij overuren;Alle behalve EXT
+314;Feestdag;Toeslag feestdag;100 %;"op feestdagen (max 6 u); enkel meest voordelige";Alle behalve EXT
+314;Zondag;Zondagstoeslag;50 %;"op zondag; enkel meest voordelige";Alle behalve EXT
+314;Avond / namiddag;Avond Premie Fitness;5 %;20:00–23:00;Alle behalve EXT
+314;Kledij;Kledij aankoop;€ 2,15 /dag;;Alle behalve EXT
+314;Kledij;Kledij onderhoud;€ 2,15 /dag;;Alle behalve EXT
+315.02;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+315.02;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+315.02;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+315.02;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+323;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+323;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+323;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+323;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+323;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
+323;Kledij;Kledij aankoop;€ 2,20 /dag;;Alle behalve EXT
+323;Kledij;Kledij onderhoud;€ 2,20 /dag;;Alle behalve EXT
+329.01;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+329.01;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+329.01;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+329.01;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+329.01;Feestdag;Toeslag feestdag;20 %;"enkel meest voordelige; op feestdagen";Alle behalve EXT
+329.01;Zondag;Zondagstoeslag;20 %;"op zondag; enkel meest voordelige";Alle behalve EXT
+329.01;Nacht;Nachttoeslag;20 %;"20:00–06:00; enkel meest voordelige";Alle behalve EXT
+333;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+333;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+333;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+333;Overuren;Overuren 200%;200 %;bij overuren;Alle behalve EXT
+333;Feestdag;Toeslag feestdag;50 %;"op feestdagen; enkel meest voordelige";Alle behalve EXT
+335;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+335;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+335;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT
+336;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+336;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+336;Overuren;Overuren 150%;150 %;bij overuren;Alle behalve EXT
+336;Overuren;Overuren 200%;200 %;bij overuren;Alle behalve EXT
+336;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
+337;Ecocheques;Ecocheques;€ 0,128 /uur;max 250 per jaar;Alle behalve STU en EXT
+337;Flexi-vakantiegeld;Vakantiegeld Flexi;7,67 %;;FLX
+337;Overuren;Overuur 150%;150 %;bij overuren;Alle behalve EXT
+337;Overuren;Overuur 200%;200 %;bij overuren;Alle behalve EXT

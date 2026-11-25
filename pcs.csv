@@ -1,0 +1,47 @@
+﻿pc;naam;statuut;barema_lonen;flexiloon;studentloon
+0;Overheidsinstantie;;nee;;
+100;Arbeiders;Arbeider;ja;12,60;
+109;Kleding- en confectiebedrijf;;ja;;
+111.01;Industriële metaalbewerking;Arbeider;ja;;
+116;Kunststofverwerkende ondernemingen in West-Vlaanderen;Arbeider;ja;;
+118.03;Bakkerijen (ARB);;ja;15,58;
+118.07;Brouwerij-Mouterij;;ja;;
+118.08;Voedingsnijverheid;Arbeider;ja;;
+118.15;Koelnijverheid;;ja;;
+119;Handel in voedingswaren & Slager/Beenhouwer (ARB);Arbeider;ja;15,9652;
+119.03;Voedingshandel: beenhouwerijen;;ja;;
+119.04;Bieren- en drinkwater handel;Arbeider;ja;11,87;
+121;Schoonmaak;Arbeider;ja;;
+126;Stoffering en houtbewerking - Podiumbouw;Arbeider;ja;;
+130.00;Drukkerij;Arbeider;ja;;
+140.00;Vervoer + logistiek;;ja;;
+140.03;Goederenvervoer;Arbeider;ja;;
+140.05;Verhuisfirma;Arbeider;ja;14,87;
+144;Landbouw;;ja;11,74;
+145.01;Bloementeelt;Arbeider;nee;;
+145.04;Parken en tuinen;Arbeider;ja;;
+145.06;Groententeelt (On hold);Arbeider;ja;;
+149.01;Elektricien;Arbeider;ja;;
+149.04;Metaalhandel;;ja;;
+200;Bedienden;;ja;13,63;
+201;Zelfstandige kleinhandel;;ja;12,78;
+207;Scheikundige nijverheid;;ja;14,68;13,48
+209;Metaalnijverheid;Bediende;ja;;
+220;Bedienden uit de voedingsnijverheid;Bediende;ja;;
+222;Papier- en kartonbewerking;;ja;;
+223;Sport;;ja;;
+226;Internationale handel-vervoer en logistiek;;ja;;
+227;Audiovisuele sector;;ja;;
+302;Horeca;;nee;12,11;
+304;Vermakelijkheidsbedrijf;Bediende;ja;;
+307;Makelarij en verzekering;Bediende;ja;;
+310;Banken;;ja;;
+311;Grote kleinhandelszaken;;ja;;
+314;Kappers, fitness en schoonheidsinstituten;;ja;11,19;
+315.02;Luchtvaarmaatschappijen;;ja;;
+323;Vastgoedsector en dienstboden;;ja;;
+329.01;Socioculturele sector;Bediende;ja;;
+333;Toeristische attracties;;ja;;
+335;Dienstverlening;;ja;;12,47
+336;Vrije beroepen;Bediende;ja;;
+337;Non-profitsector;;ja;;
