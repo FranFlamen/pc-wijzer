@@ -17,14 +17,13 @@
 118.03;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle behalve EXT
 118.03;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
 118.03;Zondag;Weekendpremie zondag;€ 5,28 /dag;op zondag;Alle behalve EXT
-118.03;Zaterdag / 6de-7de dag;Weekendpremie zaterdag;€ 5,28 /dag;op zaterdag;Alle behalve EXT
+118.03;Zaterdag / 6de-7de dag;Weekendpremie zaterdag;€ 5,28 /dag;;Alle behalve EXT
 118.03;Nacht;Nachtpremie;20 %;22:00–06:00;Alle behalve EXT
 118.07;Overuren;Overuren 150%;150 %;maandag tot zaterdag;Alle
 118.07;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle
 118.07;Nacht;Nachttoeslag;15 %;20:00–06:00;Alle
 118.08;Overuren;Overuren 150%;150 %;maandag tot zaterdag;Alle
 118.08;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle
-118.08;Koude;Koudepremie;10 %;temperatuur ≥  °C;Alle behalve EXT
 118.15;Overuren;Overuren 150%;150 %;maandag tot zaterdag;Alle behalve EXT
 118.15;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle behalve EXT
 118.15;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
@@ -32,31 +31,26 @@
 119;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle behalve EXT
 119;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
 119;Nacht;Nachtpremie;30 %;22:00–06:00;Alle behalve EXT
-119;Koude;Koude premie lager dan 5°C;5 %;"temperatuur 0–5 °C; enkel meest voordelige";Alle behalve EXT
-119;Koude;Koude premie lager dan 8°C;2 %;"temperatuur 6–8 °C; enkel meest voordelige";Alle behalve EXT
 119.03;Overuren;Overuren 150%;150 %;maandag tot zaterdag;STU, FLX, OTH, WSTU
 119.03;Overuren;Overuren 200%;200 %;zon- en feestdagen;STU, FLX, OTH, WSTU
 119.03;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);STU, FLX, OTH, WSTU
 119.03;Nacht;Nachtpremie;30 %;22:00–06:00;STU, FLX, OTH, WSTU
-119.03;Koude;Koude premie lager dan 5°C;5 %;"temperatuur 0–5 °C; enkel meest voordelige";STU, FLX, OTH, WSTU
-119.03;Koude;Koude premie lager dan 8°C;2 %;"temperatuur 6–8 °C; enkel meest voordelige";STU, FLX, OTH, WSTU
 121;Overuren;Overuren 150%;150 %;maandag tot zaterdag;Alle behalve EXT
 121;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle behalve EXT
 121;Feestdag;Toeslag feestdag;100 %;op feestdagen;Alle behalve EXT
 121;Zondag;Zondagstoeslag;100 %;op zondag;Alle behalve EXT
-121;Zaterdag / 6de-7de dag;Zaterdagarbeid;25 %;op zaterdag;Alle
+121;Zaterdag / 6de-7de dag;Zaterdagarbeid;25 %;;Alle
 121;Nacht;Nachtpremie (22u-6u);€ 3,12 /uur;"22:00–00:00; 00:00–06:00";Alle behalve EXT
 121;Overige vergoedingen;Arab Vergoeding;€ 1,63 /dag;;Alle behalve EXT
 126;Overuren;Overuren 150%;150 %;maandag tot zaterdag;Alle behalve EXT
 126;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle behalve EXT
-126;Feestdag;Toeslag feestdag;50 %;"op feestdagen; enkel meest voordelige";Alle behalve EXT
-126;Zondag;Zondagstoeslag;50 %;"op zondag; enkel meest voordelige";Alle behalve EXT
+126;Feestdag;Toeslag feestdag;50 %;op feestdagen;Alle behalve EXT
+126;Zondag;Zondagstoeslag;50 %;op zondag;Alle behalve EXT
 126;Overige vergoedingen;Arab Vergoeding;€ 1,12 /uur;;Alle behalve EXT
 130.00;Overuren;Overuren 150%;150 %;maandag tot zaterdag;Alle behalve EXT
 130.00;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle behalve EXT
 130.00;Feestdag;Toeslag feestdag;€ 200,00 /uur;op feestdagen;Alle behalve EXT
-130.00;Avond / namiddag;Avondtoeslag;25 %;"20:00–22:00; enkel meest voordelige";Alle behalve EXT
-130.00;Nacht;Nachttoeslag;50 %;"22:00–06:00; enkel meest voordelige";Alle behalve EXT
+130.00;Nacht;Nachttoeslag;50 %;22:00–06:00;Alle behalve EXT
 140.00;Overuren;Overuren 150%;150 %;maandag tot zaterdag;Alle behalve EXT
 140.00;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle behalve EXT
 140.00;Nacht;Nachtvergoeding;12,50 %;22:00–06:00;Alle behalve EXT
@@ -64,10 +58,10 @@
 140.00;Overige vergoedingen;Maaltijdcheques;€ 0,00 /uur;;Alle behalve EXT
 149.01;Overuren;Overuren 150%;150 %;maandag tot zaterdag;Alle behalve EXT
 149.01;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle behalve EXT
-149.01;Nacht;Nachttoeslag;20 %;"22:00–06:00; enkel meest voordelige";Alle behalve EXT
+149.01;Nacht;Nachttoeslag;20 %;22:00–06:00;Alle behalve EXT
 149.04;Overuren;Overuren 150%;150 %;maandag tot zaterdag;Alle behalve EXT
 149.04;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle behalve EXT
-149.04;Nacht;Nachttoeslag;20 %;"22:00–06:00; enkel meest voordelige";Alle behalve EXT
+149.04;Nacht;Nachttoeslag;20 %;22:00–06:00;Alle behalve EXT
 200;Overuren;Overuren 150%;150 %;maandag tot zaterdag;Alle behalve EXT
 200;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle behalve EXT
 200;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
@@ -82,7 +76,7 @@
 209;Overige vergoedingen;Mobiliteitsvergoeding;€ 0,1579 /dag;;STU, FLX, EXT, OTH, WSTU
 220;Overuren;Overuren 150%;150 %;maandag tot zaterdag;Alle behalve EXT
 220;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle behalve EXT
-220;Zaterdag / 6de-7de dag;Arbeid op 6de of 7de dag aan 25% op het uurloon;25 %;"op zaterdag; op zondag";Alle behalve EXT
+220;Zaterdag / 6de-7de dag;Arbeid op 6e of 7e dag aan 25% op het uurloon;25 %;;Alle behalve EXT
 223;Overuren;Overuren 150%;150 %;maandag tot zaterdag;Alle behalve EXT
 223;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle behalve EXT
 223;Feestdag;Toeslag feestdag;100 %;op feestdagen;Alle behalve EXT
@@ -96,9 +90,9 @@
 227;Nacht;Nachtpremie;50 %;01:00–06:00;Alle behalve EXT
 302;Overuren;Overuren 150%;150 %;maandag tot zaterdag;STU, FLX, EXT, OTH, WSTU
 302;Overuren;Overuren 200%;200 %;zon- en feestdagen;STU, FLX, EXT, OTH, WSTU
-302;Feestdag;Toeslag feestdag;€ 2,00 /uur;"op feestdagen (max 6 u); enkel meest voordelige";Alle
-302;Zondag;Zondagstoeslag;€ 2,00 /uur;"op zondag (max 6 u); enkel meest voordelige";Alle
-302;Nacht;Nachttoeslag;€ 1,6209 /uur;"00:00–05:00; enkel meest voordelige";Alle
+302;Feestdag;Toeslag feestdag;€ 2,00 /uur;op feestdagen (max 6 u);Alle
+302;Zondag;Zondagstoeslag;€ 2,00 /uur;op zondag (max 6 u);Alle
+302;Nacht;Nachttoeslag;€ 1,6209 /uur;00:00–05:00;Alle
 304;Overuren;Overuren 150%;150 %;maandag tot zaterdag;Alle behalve EXT
 304;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle behalve EXT
 304;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
@@ -117,8 +111,8 @@
 323;Feestdag;Toeslag feestdag;100 %;op feestdagen (max 7,60 u);Alle behalve EXT
 329.01;Overuren;Overuren 150%;150 %;maandag tot zaterdag;Alle behalve EXT
 329.01;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle behalve EXT
-329.01;Feestdag;Toeslag feestdag;20 %;"enkel meest voordelige; op feestdagen";Alle behalve EXT
-329.01;Zondag;Zondagstoeslag;20 %;"op zondag; enkel meest voordelige";Alle behalve EXT
-329.01;Nacht;Nachttoeslag;20 %;"20:00–06:00; enkel meest voordelige";Alle behalve EXT
+329.01;Feestdag;Toeslag feestdag;20 %;op feestdagen;Alle behalve EXT
+329.01;Zondag;Zondagstoeslag;20 %;op zondag;Alle behalve EXT
+329.01;Nacht;Nachttoeslag;20 %;20:00–06:00;Alle behalve EXT
 337;Overuren;Overuren 150%;150 %;maandag tot zaterdag;Alle behalve EXT
 337;Overuren;Overuren 200%;200 %;zon- en feestdagen;Alle behalve EXT
